@@ -1,0 +1,21 @@
+2020/01/23 20:45:07 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:10 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:13 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:16 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:19 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:22 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:27 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:34 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:45:48 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:46:15 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:47:07 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:47:55 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:47:57 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:48:00 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:48:03 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:48:06 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:48:09 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:48:13 [emerg] 1#1: host not found in upstream "node:4200" in /etc/nginx/nginx.conf:14
+2020/01/23 20:48:20 [warn] 1#1: "ssl_stapling" ignored, issuer certificate not found for certificate "/etc/ssl/certs/nginx-selfsigned.crt"
+2020/01/23 20:49:18 [warn] 1#1: "ssl_stapling" ignored, issuer certificate not found for certificate "/etc/ssl/certs/nginx-selfsigned.crt"
+2020/01/23 20:50:12 [warn] 1#1: "ssl_stapling" ignored, issuer certificate not found for certificate "/etc/ssl/certs/nginx-selfsigned.crt"
